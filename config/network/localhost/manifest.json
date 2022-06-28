@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
     "serverName": "Helm Command",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "iconName": "Fantasy-256.png",
+    "terminalID": "HELM",
     "defaultUser": {
-        "userId": "Crew",
+        "userId": "Crew_Interface",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Crew_Interface"
     },
     "randomSeed": true,
     "initialHistory": {
